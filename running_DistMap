@@ -17,7 +17,16 @@ library(gridExtra)
 viridis = viridis(n = 16, begin = 0, end = 1, option = "D")
 
 
+discGeometry <- read.csv( geometryfile )
+
+
+
+
 
 range01 <- function(x){(x-min(x))/(max(x)-min(x))}
 
-discGeometry <- read.csv( geometryfile )
+pickcolor <- function(color_data, lowlim, uplim){
+  range01(pmax(pmin(range01(color_data), uplim), lowlim))
+}
+
+
