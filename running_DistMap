@@ -1,4 +1,4 @@
-# This is r code is for generating a virtual disc model using Distmap (
+# This is r code is for generating a virtual disc model using Distmap ( Karaiskos et al., 2017 - https://github.com/rajewsky-lab/distmap) 
 
 # will need a geometry file (supplemental file 4)
 # reference expression patterns (supplemental file 5) 
@@ -12,8 +12,12 @@ geometryfile = "~/supplemtnal_file_4.csv"
 
 
 library(DistMap)
-library(viridis)
+
+# this is to plot the multiple layers next to each other 
 library(gridExtra)
+
+# This is for the color scheme used for gene expression patterns 
+library(viridis)
 viridis = viridis(n = 16, begin = 0, end = 1, option = "D")
 
 
