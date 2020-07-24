@@ -1,1 +1,23 @@
+# This is r code is for generating a virtual disc model using Distmap (
 
+# will need a geometry file (supplemental file 4)
+# reference expression patterns (supplemental file 5) 
+# and single-cell RNA seq data (we used imputed values for mapping the cells to the locations). 
+# The cells will be mapped to the reference patterns, and then can be used to generate virtual in situ or predicted gene expression patterns. 
+
+
+# Import libraries
+
+geometryfile = "~/supplemtnal_file_4.csv"
+
+
+library(DistMap)
+library(viridis)
+library(gridExtra)
+viridis = viridis(n = 16, begin = 0, end = 1, option = "D")
+
+
+
+range01 <- function(x){(x-min(x))/(max(x)-min(x))}
+
+discGeometry <- read.csv( geometryfile )
