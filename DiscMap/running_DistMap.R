@@ -1,4 +1,4 @@
-# This is r code is for generating a virtual disc model using Distmap ( Karaiskos et al., 2017 - https://github.com/rajewsky-lab/distmap) 
+# R code is for generating a virtual disc model using Distmap (Karaiskos et al., 2017 - https://github.com/rajewsky-lab/distmap) 
 
 # will need a geometry file (supplemental file 4)
 # reference expression patterns (supplemental file 5) 
