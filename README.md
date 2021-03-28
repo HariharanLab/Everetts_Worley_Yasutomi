@@ -24,7 +24,7 @@ In both vertebrates and invertebrates, generating a functional appendage require
 
 
 ## AMP and Epithelial Cell Atlas with ScVI 
-![Whatever alt text] (https://github.com/HariharanLab/Everetts_Worley_Yasutomi/blob/master/single_cell/AMP_sc.jpg)
+![Whatever alt text] (https://github.com/HariharanLab/Everetts_Worley_Yasutomi/single_cell/AMP_sc.jpg)
 
 * https://github.com/YosefLab/scvi-tools
 
