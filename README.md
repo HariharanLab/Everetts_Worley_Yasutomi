@@ -23,13 +23,14 @@ Abstract
 In both vertebrates and invertebrates, generating a functional appendage requires interactions between ectoderm-derived epithelia and mesoderm-derived cells. To investigate such interactions, we used single-cell transcriptomics to generate a temporal cell atlas of the Drosophila wing disc from two developmental time points. Using these data, we visualized gene expression using a multi-layered model of the wing disc and catalogued ligand-receptor pairs that could mediate signaling between epithelial cells and adult muscle precursors (AMPs). We found that localized expression of the FGF ligands, Thisbe and Pyramus, in the disc epithelium regulates the number and location of the AMPs. In addition, Hedgehog ligand from the epithelium activates a specific transcriptional program within adjacent AMP cells, defined by AMP-specific targets Neurotactin and midline, that is critical for proper formation of direct flight muscles. More generally, our annotated temporal cell atlas provides an organ-wide view of potential cell-cell interactions between epithelial and myogenic cells. 
 
 
-## AMP and Epithelial Cell Atlas with ScVI 
+
+> ## AMP and Epithelial Cell Atlas with ScVI 
 ![Whatever alt text](https://github.com/HariharanLab/Everetts_Worley_Yasutomi/blob/master/single_cell/AMP_sc.jpg?raw=true)
 
-* https://github.com/YosefLab/scvi-tools
+* ScVI https://github.com/YosefLab/scvi-tools
 
 
-## Virtual wing disc
+> ## Virtual wing disc
 
 ![Whatever alt text](https://github.com/HariharanLab/Everetts_Worley_Yasutomi/blob/master/DiscMap/discmap_image.jpg?raw=true)
 
