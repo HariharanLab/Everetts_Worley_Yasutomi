@@ -1,8 +1,7 @@
 # Everetts_Worley_Yasutomi
  
-Single-cell transcriptomics of the Drosophila wing disc reveals instructive epithelium-to-myoblast interactions
+## Single-cell transcriptomics of the Drosophila wing disc reveals instructive epithelium-to-myoblast interactions
 
-Authors
 Nicholas J. Everetts * 1, 2, Melanie I. Worley * 1, Riku Yasutomi 1, Nir Yosef 2, and Iswar K. Hariharan 1
 (* co-first authorship)
  
