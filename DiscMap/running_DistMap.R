@@ -41,3 +41,5 @@ gene = gene
 VISH <- computeVISH( dmDiscImputed, gene, threshold = 0)
 
 # this virtual in situ can then be plotted on the same geometry as povided above (see plottingDiscmap.R) 
+
+saveRDS( dmDiscImputed , file = paste0("dmDiscImputed", ".rds")) # Save DistMap model
