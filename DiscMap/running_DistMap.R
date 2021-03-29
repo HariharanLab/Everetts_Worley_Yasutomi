@@ -23,11 +23,11 @@ imputedData = as.matrix(sc_object@assays$scVIxNB_Imputed@data)
 dmDiscImputed = new("DistMap",
          data = imputedData,
          insitu.matrix = discExp,
-         geometry= geometryfile )
+         geometry= geometryfile)
 
 dmDiscImputed <- binarizeSingleCellData(object = dmDiscImputed, quantiles = seq(0, 0.5, 0.01))
 
-dmDiscImputed <- mapCells(object = dmDiscImputed )
+dmDiscImputed <- mapCells(object = dmDiscImputed)
 
 
 # to calculate virtual in situ:
