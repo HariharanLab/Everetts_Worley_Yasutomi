@@ -1,7 +1,7 @@
 # Virtual three-layered wing  disc from single-cell data mapped to a reference map
 
 
-![Whatever alt text](https://github.com/HariharanLab/Everetts_Worley_Yasutomi/blob/master/DiscMap/discmap_image.jpg?raw=true)
+![alt text](https://github.com/HariharanLab/Everetts_Worley_Yasutomi/blob/master/DiscMap/discmap_image.jpg?raw=true)
 
 
 * Distmap ( Karaiskos et al., 2017 - https://github.com/rajewsky-lab/distmap) 
@@ -22,3 +22,5 @@ We assembled reference gene expression patterns from a number of sources:
 > We provide example R code for generating the virtual disc model with DistMap [(running_DistMap.R)](https://github.com/HariharanLab/Everetts_Worley_Yasutomi/blob/master/DiscMap/running_DistMap.R)
 >
 > and for generating the plots of the three-layered disc from the virtual _in situ_ data [(plottingDiscmap.R)](https://github.com/HariharanLab/Everetts_Worley_Yasutomi/blob/master/DiscMap/plottingDiscmap.R)
+
+![alt text](https://github.com/HariharanLab/Everetts_Worley_Yasutomi/blob/master/DiscMap/Three_layerDisc.jpg)
