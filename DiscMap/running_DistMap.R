@@ -11,9 +11,9 @@
 #DistMap (Karaiskos et al., 2017 - https://github.com/rajewsky-lab/distmap) 
 library(DistMap)
 
-#load in the geometry coordinates (supplemental_file_4.csv), the coordinates for reference genes (supplemental_file_5.csv), and
+#load in the geometry coordinates file (supplemental_file_4.csv), the coordinates for reference gene expression patterns (supplemental_file_5.csv), and
 #the imputed expression data from scVI.
-geometryfile = as.matrix(read.csv("./supplemental_file_4.csv", row.names = 1, stringsAsFactor = FALSE))
+geometryfile = as.matrix(read.csv("./supplemental_file_4.csv", row.names = 1, header = TRUE, stringsAsFactor = FALSE))
 discExp = as.matrix(read.csv("./supplemental_file_5.csv", header = TRUE, row.names = 1, stringsAsFactor = FALSE))
 imputedData = as.matrix(read.csv(path_to_imputed_data, stringsAsFactor = FALSE))
 
