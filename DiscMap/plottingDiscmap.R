@@ -1,5 +1,6 @@
-## Here is code for visulizing the predicted expression patterns from the Virtual Wing disc (from the DiscMap model) 
+## Here is code for visulizing the predicted expression patterns from the Virtual Wing disc (from the DistMap model) 
 
+# First generate a DistMap model ( running_DistMap.R ) 
 
 # import libraries 
 library(DistMap)
