@@ -4,15 +4,15 @@
 
 https://elifesciences.org/articles/61276
 
-Nicholas J. Everetts * 1, 2, Melanie I. Worley * 1, Riku Yasutomi 1, Nir Yosef 2, and Iswar K. Hariharan 1
-(* co-first authorship)
+Nicholas J. Everetts <sup>* 1, 2</sup>, Melanie I. Worley <sup>* 1</sup>, Riku Yasutomi <sup>1</sup>, Nir Yosef <sup>2</sup>, and Iswar K. Hariharan <sup>1</sup>
+(*</sup> co-first authorship)
  
-1 Department of Molecular and Cell Biology
+<sup>1</sup> Department of Molecular and Cell Biology
 University of California, Berkeley
 515 Life Sciences Addition
 Berkeley CA, 94720-3200
  
-2 Department of Electrical Engineering & Computer Science,
+<sup>2</sup> Department of Electrical Engineering & Computer Science,
 Center for Computational Biology, UC Berkeley
 University of California, Berkeley
 304A Stanley Hall
