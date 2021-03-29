@@ -24,3 +24,5 @@ We assembled reference gene expression patterns from a number of sources:
 > and for generating the plots of the three-layered disc from the virtual _in situ_ data [(plottingDiscmap.R)](https://github.com/HariharanLab/Everetts_Worley_Yasutomi/blob/master/DiscMap/plottingDiscmap.R)
 
 ![alt text](https://github.com/HariharanLab/Everetts_Worley_Yasutomi/blob/master/DiscMap/Three_layerDisc.jpg)
+* _pyramus (pyr)_ is predicted to be expressed primarily in the disc proper, in the notum region (area with most yellow color)
+* Please see [**Figure 3**](https://elifesciences.org/articles/61276/figures)
