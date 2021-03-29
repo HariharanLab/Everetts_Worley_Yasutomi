@@ -42,7 +42,7 @@ In both vertebrates and invertebrates, generating a functional appendage require
 * Map cells to reference with Distmap (Karaiskos et al., 2017 - https://github.com/rajewsky-lab/distmap) 
 ---
 and see also: 
-> ### [Pairwise differential expression and ECDF plots](https://github.com/HariharanLab/Everetts_Worley_Yasutomi/pairwise_DE_and_ECDF_plots.R)
+> ### [Pairwise differential expression and ECDF plots](https://github.com/HariharanLab/Everetts_Worley_Yasutomi/blob/master/pairwise_DE_and_ECDF_plots.R)
 
 
 
