@@ -116,4 +116,4 @@ for (md in corr_methods) {
 }
 
 #we often find that only one latent dimension displays high correlation to cell cycle genes,
-#and exclude this dimensions from our downstream analysis
+#and we exclude this dimension from our downstream analysis
