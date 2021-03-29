@@ -8,12 +8,12 @@
 
 # Import libraries
 
-#Distmap ( Karaiskos et al., 2017 - https://github.com/rajewsky-lab/distmap) 
+#DistMap (Karaiskos et al., 2017 - https://github.com/rajewsky-lab/distmap) 
 library(DistMap)
 
 
-geometryfile = "~/supplemtnal_file_4.csv"
-discExp = "~/supplemtnal_file_5.csv"
+geometryfile = "~/supplemental_file_4.csv"
+discExp = "~/supplemental_file_5.csv"
 sc_object = "~/object_imputed"
 
 imputedData = as.matrix(sc_object@assays$scVIxNB_Imputed@data)
@@ -30,13 +30,9 @@ dmDiscImputed <- binarizeSingleCellData(object = dmDiscImputed, quantiles = seq(
 dmDiscImputed <- mapCells(object = dmDiscImputed )
 
 
-# to calculate virtual in situ :  
+# to calculate virtual in situ:
 
 # gene of interest 
 gene = gene 
 
 VISH <- computeVISH( dmDiscImputed, gene, threshold = 0)
-
-
-
-
