@@ -30,7 +30,7 @@ In both vertebrates and invertebrates, generating a functional appendage require
 ![Whatever alt text](https://github.com/HariharanLab/Everetts_Worley_Yasutomi/blob/master/scVI/AMP_sc.jpg?raw=true)
 
 
-* scVI https://github.com/YosefLab/scvi-tools
+* scVI https://scvi-tools.org/
 
 
 ---
