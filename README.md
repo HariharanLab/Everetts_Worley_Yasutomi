@@ -27,7 +27,7 @@ In both vertebrates and invertebrates, generating a functional appendage require
 ---
 
 > ## [AMP and Epithelial Cell Atlas with ScVI](https://github.com/HariharanLab/Everetts_Worley_Yasutomi/tree/master/scVI)
-![Whatever alt text](https://github.com/HariharanLab/Everetts_Worley_Yasutomi/blob/master/scVI/AMP_sc.jpg?raw=true)
+![alt text](https://github.com/HariharanLab/Everetts_Worley_Yasutomi/blob/master/scVI/AMP_sc.jpg?raw=true)
 
 
 * scVI https://scvi-tools.org/
@@ -36,7 +36,7 @@ In both vertebrates and invertebrates, generating a functional appendage require
 ---
 > ## [Virtual wing disc](https://github.com/HariharanLab/Everetts_Worley_Yasutomi/tree/master/DiscMap)
 
-![Whatever alt text](https://github.com/HariharanLab/Everetts_Worley_Yasutomi/blob/master/DiscMap/discmap_image.jpg?raw=true)
+![alt text](https://github.com/HariharanLab/Everetts_Worley_Yasutomi/blob/master/DiscMap/discmap_image.jpg?raw=true)
 
 * Assembled three-layer reference geometry + expression patterns 
 * Map cells to reference with Distmap (Karaiskos et al., 2017 - https://github.com/rajewsky-lab/distmap) 
