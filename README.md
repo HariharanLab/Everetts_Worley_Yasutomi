@@ -43,7 +43,7 @@ In both vertebrates and invertebrates, generating a functional appendage require
 
 
 
-## Please conntact us with questions! 
+## Please contact us with questions! 
 * Nicholas J. Everetts (nicholas_everetts@berkeley.edu)
 * Melanie I. Worley, Ph.D. (mworley@berkeley.edu)
 
