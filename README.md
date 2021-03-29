@@ -22,10 +22,13 @@ Berkeley, CA 94720-3200
 Abstract
 In both vertebrates and invertebrates, generating a functional appendage requires interactions between ectoderm-derived epithelia and mesoderm-derived cells. To investigate such interactions, we used single-cell transcriptomics to generate a temporal cell atlas of the Drosophila wing disc from two developmental time points. Using these data, we visualized gene expression using a multi-layered model of the wing disc and catalogued ligand-receptor pairs that could mediate signaling between epithelial cells and adult muscle precursors (AMPs). We found that localized expression of the FGF ligands, Thisbe and Pyramus, in the disc epithelium regulates the number and location of the AMPs. In addition, Hedgehog ligand from the epithelium activates a specific transcriptional program within adjacent AMP cells, defined by AMP-specific targets Neurotactin and midline, that is critical for proper formation of direct flight muscles. More generally, our annotated temporal cell atlas provides an organ-wide view of potential cell-cell interactions between epithelial and myogenic cells. 
 
+
+
 ---
 
 > ## [AMP and Epithelial Cell Atlas with ScVI](https://github.com/HariharanLab/Everetts_Worley_Yasutomi/tree/master/single_cell)
 ![Whatever alt text](https://github.com/HariharanLab/Everetts_Worley_Yasutomi/blob/master/scVI/AMP_sc.jpg?raw=true)
+
 
 * scVI https://github.com/YosefLab/scvi-tools
 
@@ -37,3 +40,12 @@ In both vertebrates and invertebrates, generating a functional appendage require
 
 * Assembled three-layer reference geometry + expression patterns 
 * Map cells to reference with Distmap (Karaiskos et al., 2017 - https://github.com/rajewsky-lab/distmap) 
+
+
+
+## Please conntact us with questions! 
+* Nicholas J. Everetts (nicholas_everetts@berkeley.edu)
+* Melanie I. Worley, Ph.D. (mworley@berkeley.edu)
+
+* [Hariharan Lab](https://mcb.berkeley.edu/labs/hariharan/) 
+* [Yosef Lab](https://yoseflab.github.io/)
