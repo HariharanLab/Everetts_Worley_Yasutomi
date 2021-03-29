@@ -2,7 +2,7 @@
 
 # will need a geometry file (supplemental file 4)
 # reference expression patterns (supplemental file 5) 
-# and single-cell RNA seq data (we used imputed values from ScVI for mapping the cells to the locations). 
+# and single-cell RNA seq data (we used imputed values from scVI for mapping the cells to the locations). 
 # The cells will be mapped to the reference patterns, and then can be used to generate virtual in situ or predicted gene expression patterns. 
 
 
