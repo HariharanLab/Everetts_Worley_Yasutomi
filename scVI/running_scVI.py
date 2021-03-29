@@ -2,7 +2,7 @@
 """
 Example Code for Running scVI (Ver. 0.4.1)
 
-Python code for running scVI ver. 0.4.1, used in Everetts Worley et al. 2020
+Python code for running scVI ver. 0.4.1, used in Everetts, Worley, et al. 2020
 
 NOTE: Since this publication, scVI has been updated significantly, and is now 
 called scvi-tools). I recommend learning how to run the newest version of
