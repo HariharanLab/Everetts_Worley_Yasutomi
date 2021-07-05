@@ -49,7 +49,7 @@ and see also:
 
 ## Please contact us with questions! 
 * Nicholas J. Everetts (nicholas_everetts@berkeley.edu)
-* Melanie I. Worley, Ph.D. (mworley@berkeley.edu)
+* [Melanie I. Worley, Ph.D.](https://sites.google.com/view/melanieworley/home?authuser=0/) (mworley@berkeley.edu)
 
 * [Hariharan Lab](https://mcb.berkeley.edu/labs/hariharan/) 
 * [Yosef Lab](https://yoseflab.github.io/)
