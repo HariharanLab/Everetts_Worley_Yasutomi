@@ -13,8 +13,7 @@ University of California, Berkeley
 Berkeley CA, 94720-3200
  
 <sup>2</sup> Department of Electrical Engineering & Computer Science,
-Center for Computational Biology, UC Berkeley
-University of California, Berkeley
+Center for Computational Biology, University of California, Berkeley
 304A Stanley Hall
 Berkeley, CA 94720-3200
 
