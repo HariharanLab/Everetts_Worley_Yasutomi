@@ -1,4 +1,4 @@
-# Virtual three-layered wing  disc from single-cell data mapped to a reference map
+# [Virtual three-layered wing  disc from single-cell data mapped to a reference map](https://elifesciences.org/articles/61276/figures#content)
 
 
 ![alt text](https://github.com/HariharanLab/Everetts_Worley_Yasutomi/blob/master/DiscMap/discmap_image.jpg?raw=true)
