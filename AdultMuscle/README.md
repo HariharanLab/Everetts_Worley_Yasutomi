@@ -1,7 +1,7 @@
 
 For more information on how the Adult Muscles were prepared for immunohistochemistry and imaging: 
 
-See post from #Riku Yasutomi# 
+See post from Riku Yasutomi
 
 https://bio-protocol.org/Rap18832
 
@@ -21,3 +21,4 @@ I hope this response provides a clearer description of how to dissect and stain 
 
 Best,
 Riku Yasutomi
+rikuy@uw.edu
