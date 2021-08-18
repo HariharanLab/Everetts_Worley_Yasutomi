@@ -5,7 +5,7 @@ See post from Riku Yasutomi on Bio-Protocol (pasted below)
 
 https://bio-protocol.org/Rap18832
 
-This protocol was used to generate the images of the adult flight muscles ([Figure 5](https://elifesciences.org/articles/61276))
+This protocol was used to generate the images of the adult flight muscles in [Figure 5](https://elifesciences.org/articles/61276)
 
 ![alt text](https://github.com/HariharanLab/Everetts_Worley_Yasutomi/blob/master/AdultMuscle/AdultMuscle.jpg?raw=true)
 
