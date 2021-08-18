@@ -1,1 +1,23 @@
 
+For more information on how the Adult Muscles were prepared for immunohistochemistry and imaging: 
+
+See post from #Riku Yasutomi# 
+
+https://bio-protocol.org/Rap18832
+
+Thank you for your interest in our DVM and DFM dissection protocol. In the adult thorax, DLMs are located medially and DVMs are located laterally, relative to the DLMs. The goal of our dissection was to sagittally bisect thoraces and then remove DLMs in order to expose the underlying DVMs.
+
+To isolate thoraces, male flies aged a minimum of 2 days after eclosion were anesthetized and submerged in 70% ethanol with dry ice. The thorax was isolated by removing the head, wings, legs, and abdomen using forceps.
+
+To bisect thoraces, thoraces submerged in 70% ethanol with dry ice were bisected sagittally with an 11-blade scalpel blade. The cross-sections of the resulting hemithoraces exposed DLMs. Previously, other groups have bisected thoraces by flash freezing thoraces on a slide with LN2 or desiccating thoraces in organic solvents, then bisecting with a scalpel or razor blade. In my hands, bisecting thoraces with a scalpel blade while they were submerged in 70% ethanol with dry ice generated the most consistent hemithoraces while preserving the structure of the muscle fibers.
+
+To expose DVMs, hemithoraces were submerged in PBS on a slide, and DLMs were removed from hemithoraces using forceps. Specifically, a single DLM fiber was detached on the anterior end by pulling the fiber off the body wall, then pulled posteriorly to peel the fiber off the hemithorax. This was repeated a total of six times for each DLM fiber. I do not recommend removing multiple fibers at once, since I found that this often caused the cuticle to tear, damaging the underlying DVMs. Finally, excess cuticle was removed using a scalpel blade. Although this step is not strictly necessary, it often prevented the excess cuticle from folding over the DVMs during the mounting process.
+
+To expose DFMs, DLMs were removed from hemithoraces (as described in the previous step), then DVMs and the Tergal Depressor of the Trochanter Muscle (TDT Muscle) were removed. Specifically, a single DVM fiber was detached on the dorsal end by pulling the fiber off the body wall, then pulled ventrally to peel the fiber off the hemithorax. This was repeated for each DVM fiber as well as the TDT Muscle. Finally, excess cuticle and leg muscles (if any) were removed with a scalpel blade. The resulting thorax fragments containing DFMs are fragile and must be transferred with caution.
+
+DLM, DVM, and DFM samples prepared using the protocol described above were fixed in 4% PFA for 2 hours. Muscles were then rinsed three times and permeabilized in 0.3% PBST for three cycles, 15 min each on a nutator. Hemithoraces were incubated in rhodamine phalloidin (1:200) and DAPI (1:500) in 0.3% PBST, then rinsed three times and washed in 0.3% PBST for three cycles, 15 min each on a nutator. Hemithoraces were mounted in a depression slide using antifade mountant. This fixation and staining protocol worked reasonably for phalloidin staining, however, did not produce robust results for antibody stains (at least in the few times I tried it the fluorescence looked faint and had a lot of background noise). If you are interested in performing antibody stains, you might want to try a shorter fixation time or fixation prior to thorax bisection.
+
+I hope this response provides a clearer description of how to dissect and stain DVMs and DFMs. Please do not hesitate to reach out to me with any questions or comments.
+
+Best,
+Riku Yasutomi
