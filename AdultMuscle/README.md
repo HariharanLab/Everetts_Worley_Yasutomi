@@ -20,5 +20,7 @@ DLM, DVM, and DFM samples prepared using the protocol described above were fixed
 I hope this response provides a clearer description of how to dissect and stain DVMs and DFMs. Please do not hesitate to reach out to me with any questions or comments.
 
 Best,
+
 Riku Yasutomi
+
 rikuy@uw.edu
