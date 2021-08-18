@@ -6,7 +6,7 @@ See post from Riku Yasutomi
 https://bio-protocol.org/Rap18832
 
 
-![alt text](https://github.com/HariharanLab/Everetts_Worley_Yasutomi/blob/master/DiscMap/discmap_image.jpg?raw=true)
+![alt text](https://github.com/HariharanLab/Everetts_Worley_Yasutomi/blob/master/AdultMuscle/AdultMuscle.jpg?raw=true)
 
 Thank you for your interest in our DVM and DFM dissection protocol. In the adult thorax, DLMs are located medially and DVMs are located laterally, relative to the DLMs. The goal of our dissection was to sagittally bisect thoraces and then remove DLMs in order to expose the underlying DVMs.
 
