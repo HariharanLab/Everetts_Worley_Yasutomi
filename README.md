@@ -45,7 +45,7 @@ In both vertebrates and invertebrates, generating a functional appendage require
 and see also: 
 > ### [Pairwise differential expression and ECDF plots](https://github.com/HariharanLab/Everetts_Worley_Yasutomi/blob/master/pairwise_DE_and_ECDF_plots.R)
 
-> ### [Notes on Adult Muscle Preparations](https://github.com/HariharanLab/Everetts_Worley_Yasutomi/blob/master/AdultMuscle/README.md)
+> ### [Notes on adult muscle preparations](https://github.com/HariharanLab/Everetts_Worley_Yasutomi/blob/master/AdultMuscle/README.md)
 
 ## Please contact us with questions! 
 * Nicholas J. Everetts (nicholas_everetts@berkeley.edu)
