@@ -1,7 +1,7 @@
 
-For more information on how the Adult Muscles were prepared for immunohistochemistry and imaging: 
+For more information on how the Adult Muscles Investigation: 
 
-See post from Riku Yasutomi
+See post from Riku Yasutomi on Bio-Protocol (pasted below)
 
 https://bio-protocol.org/Rap18832
 
@@ -26,4 +26,3 @@ Best,
 
 Riku Yasutomi
 
-rikuy@uw.edu
