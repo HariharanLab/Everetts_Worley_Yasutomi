@@ -5,8 +5,10 @@ See post from Riku Yasutomi on Bio-Protocol (pasted below)
 
 https://bio-protocol.org/Rap18832
 
-
+This protocol was used to generate the images of the adult flight muscles (Figure 5) 
 ![alt text](https://github.com/HariharanLab/Everetts_Worley_Yasutomi/blob/master/AdultMuscle/AdultMuscle.jpg?raw=true)
+
+
 
 Thank you for your interest in our DVM and DFM dissection protocol. In the adult thorax, DLMs are located medially and DVMs are located laterally, relative to the DLMs. The goal of our dissection was to sagittally bisect thoraces and then remove DLMs in order to expose the underlying DVMs.
 
