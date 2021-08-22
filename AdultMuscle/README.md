@@ -1,5 +1,5 @@
 
-For more information on how the Adult Muscles Investigation: 
+For more information on how the Adult Muscles were investigated: 
 
 See post from Riku Yasutomi on Bio-Protocol (pasted below)
 
