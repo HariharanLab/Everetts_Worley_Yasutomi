@@ -23,10 +23,8 @@ Berkeley, CA 94720-3200
 Abstract
 In both vertebrates and invertebrates, generating a functional appendage requires interactions between ectoderm-derived epithelia and mesoderm-derived cells. To investigate such interactions, we used single-cell transcriptomics to generate a temporal cell atlas of the _Drosophila_ wing disc from two developmental time points. Using these data, we visualized gene expression using a multi-layered model of the wing disc and catalogued ligand-receptor pairs that could mediate signaling between epithelial cells and adult muscle precursors (AMPs). We found that localized expression of the FGF ligands, Thisbe and Pyramus, in the disc epithelium regulates the number and location of the AMPs. In addition, Hedgehog ligand from the epithelium activates a specific transcriptional program within adjacent AMP cells, defined by AMP-specific targets _Neurotactin_ and _midline_, that is critical for proper formation of direct flight muscles. More generally, our annotated temporal cell atlas provides an organ-wide view of potential cell-cell interactions between epithelial and myogenic cells. 
 
-### Sequencing data and aligned matrices have deposited in GEO (accession code [GSE155543](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE155543) ).
+Single cell data is avaiable on GEO [<link>](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE155543) 
 
-
-! [alt text] (https://github.com/HariharanLab/Everetts_Worley_Yasutomi/blob/d9a0a922beccf1bdb0f769f8c934656c8c66959a/TemporalCellAtlas/Temporal_sc_atlas.jpg?raw=false)
 ---
 
 > ## [AMP and Epithelial Cell Atlas with ScVI](https://github.com/HariharanLab/Everetts_Worley_Yasutomi/tree/master/scVI)
@@ -39,7 +37,7 @@ In both vertebrates and invertebrates, generating a functional appendage require
 ---
 > ## [Virtual wing disc](https://github.com/HariharanLab/Everetts_Worley_Yasutomi/tree/master/DiscMap)
 
-d
+![alt text](https://github.com/HariharanLab/Everetts_Worley_Yasutomi/blob/master/DiscMap/discmap_image.jpg?raw=true)
 
 * Assembled three-layer reference geometry + expression patterns 
 * Map cells to reference with Distmap (Karaiskos et al., 2017 - https://github.com/rajewsky-lab/distmap) 
