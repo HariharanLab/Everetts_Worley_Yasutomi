@@ -27,7 +27,7 @@ In both vertebrates and invertebrates, generating a functional appendage require
 ### Single cell data is avaiable on GEO: [GSE155543](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE155543) 
 
 ---
-> ## [Temporal cell Atlas Identities](https://github.com/HariharanLab/Everetts_Worley_Yasutomi/tree/master/TemporalCellAtlas)
+> ## [Temporal cell atlas identities](https://github.com/HariharanLab/Everetts_Worley_Yasutomi/tree/master/TemporalCellAtlas)
 ![alt text](https://github.com/HariharanLab/Everetts_Worley_Yasutomi/blob/master/TemporalCellAtlas/Temporal_sc_atlas.jpg?raw=true)
 
 
