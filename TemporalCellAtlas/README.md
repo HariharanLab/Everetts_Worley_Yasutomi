@@ -1,5 +1,5 @@
 
-# Temporal Cell Atlas
+# Temporal Cell Atlas - see metadata (.csv file) 
 
 ---
 
