@@ -25,6 +25,8 @@ In both vertebrates and invertebrates, generating a functional appendage require
 
 ### Sequencing data and aligned matrices have deposited in GEO (accession code [GSE155543](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE155543) ).
 
+
+! [alt text] (https://github.com/HariharanLab/Everetts_Worley_Yasutomi/blob/d9a0a922beccf1bdb0f769f8c934656c8c66959a/TemporalCellAtlas/Temporal_sc_atlas.jpg?raw=false)
 ---
 
 > ## [AMP and Epithelial Cell Atlas with ScVI](https://github.com/HariharanLab/Everetts_Worley_Yasutomi/tree/master/scVI)
@@ -37,7 +39,7 @@ In both vertebrates and invertebrates, generating a functional appendage require
 ---
 > ## [Virtual wing disc](https://github.com/HariharanLab/Everetts_Worley_Yasutomi/tree/master/DiscMap)
 
-![alt text](https://github.com/HariharanLab/Everetts_Worley_Yasutomi/blob/master/DiscMap/discmap_image.jpg?raw=true)
+d
 
 * Assembled three-layer reference geometry + expression patterns 
 * Map cells to reference with Distmap (Karaiskos et al., 2017 - https://github.com/rajewsky-lab/distmap) 
